@@ -1,0 +1,9 @@
+{
+    "__className": "user_post",  
+    "__path": "/lib/models/user_post",  
+    "userId": 1,
+    "id": 1,  
+    "title": "Json To Dart Model",  
+    "body": "Json to Dart advanced...",
+    "List" : "[]"
+  }
