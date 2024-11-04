@@ -52,7 +52,7 @@ class _MyAppState extends State<MyApp> {
               ),
               ElevatedButton(
                 onPressed: () => _toggleTheme(ThemeMode.dark),
-                child: Text('Dark Theme'),
+                child: Text('Dark Theeme'),
               ),
               ElevatedButton(
                 onPressed: () => _toggleTheme(ThemeMode.system),
